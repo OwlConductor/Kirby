@@ -2,7 +2,6 @@ package Übungsaufgabe1;
 
 public class Lennart {
 	
-	
 	/*
 	 * Entrance to program
 	 */
@@ -13,5 +12,4 @@ public class Lennart {
 			System.out.println(args[0]);
 		System.out.println(text);
 	}
-	
 }

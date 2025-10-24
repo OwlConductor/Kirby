@@ -1,4 +1,4 @@
-package Übungsaufgabe;
+package Übungsaufgabe1;
 
 public class Lennart {
 	

@@ -27,9 +27,7 @@ public class Lennart {
 				System.out.println(e.toString());
 			}
 		}
-		if (args.length==1)
-			System.out.println(args[0]);
-
+		
 		System.out.println("Leben");
 	}
 }

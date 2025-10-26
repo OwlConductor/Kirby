@@ -1,8 +1,5 @@
 /**
  * 
  */
-/**
- * 
- */
-module EinführungInDieProgrammierung {
+module Übungsaufgabe1 {
 }

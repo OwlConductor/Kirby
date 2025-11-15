@@ -1,10 +1,6 @@
 package p1;
 
-public class Lennart {
-	
-	/*
-	 * Entrance to program
-	 */
+public class H1_main {
 	public static void main(String args[]) {
 		System.out.println("Leben");
 	}
